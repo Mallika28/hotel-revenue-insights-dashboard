@@ -39,7 +39,6 @@ The Hotel Revenue Insights Dashboard now provides real-time visibility into key 
 ## 🗂️ Files Included
 
 - `Hotel_Revenue_Insights_Dashboard.pbix` — Power BI dashboard file.
-- `data/` — Sample dataset in Excel or CSV (if included).
 - `screenshots/` — Dashboard visuals.
 
 ---
